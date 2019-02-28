@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/basicweb":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/basicweb","hostpath":"C:/xampp/htdocs/basicweb","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/xampp/htdocs/basicweb","disabled":false,"__vagrantfile":true}}}
